@@ -1,3 +1,2 @@
 file_hook文件夹内为钩子源码。
-demo内为一个能用的文件钩子示例。
-release内为编译好的demo程序。
+demo内为一个能用的文件钩子示例（就是Release的源码）。
